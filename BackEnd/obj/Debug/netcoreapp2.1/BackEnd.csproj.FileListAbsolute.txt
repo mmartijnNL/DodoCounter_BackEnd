@@ -1,0 +1,14 @@
+c:\users\martijn\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.deps.json
+c:\users\martijn\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.json
+c:\users\martijn\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.dev.json
+c:\users\martijn\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.dll
+c:\users\martijn\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.pdb
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojResolveAssemblyReference.cache
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
+c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
