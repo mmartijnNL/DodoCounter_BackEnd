@@ -73,8 +73,9 @@ namespace BackEnd
             {
                 app.UseHsts();
             }
-            //setup CORS to accept port 4200
-            app.UseCors(builder => builder.WithOrigins("http://localhost:4200"));
+            //setup CORS to accept localhost port 4200
+            //app.UseCors(builder => builder.WithOrigins("http://localhost:4200").AllowAnyHeader());
+            app.UseCors(builder => builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseMvc();

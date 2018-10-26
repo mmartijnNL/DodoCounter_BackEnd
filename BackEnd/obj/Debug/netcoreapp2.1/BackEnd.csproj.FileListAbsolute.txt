@@ -12,3 +12,17 @@ c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.As
 c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
 c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
 c:\users\martijn\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.deps.json
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.json
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.dev.json
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojAssemblyReference.cache
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\marti\Source\Repos\mmartijnNL\DodoCounter_BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
